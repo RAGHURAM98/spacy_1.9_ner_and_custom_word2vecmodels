@@ -1,5 +1,5 @@
 # Requirements:
- all the codes are running in the viridis environment
+ all the codes are running in the the same project environment
 
 # about the repoistory
 1.get the indeed client no from the project folder and paste it in get_job_from_indeed.py
